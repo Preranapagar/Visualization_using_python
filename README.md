@@ -7,3 +7,4 @@ using Python libraries for Data Visualization like Matplotlib and Seaborn
 4. Plotting and Annotation
 5. Statistical Data Graphics
 6. Multi-dimentional Visualisation
+7. Scatterplot
